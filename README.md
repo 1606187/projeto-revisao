@@ -4,6 +4,9 @@
 ## Site online
 [Netlify](https://projeto-revisao-88.netlify.app/)
 
+## Repositório
+[GitHub](https://github.com/1606187/projeto-revisao)
+
 ## Tecnologias
 - HTML
 - CSS
