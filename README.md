@@ -13,7 +13,7 @@
 - JS
 
 ## Como rodar o projeto
-- Abrir no VSCode
-- Baixar extensão Live server
-- Abrir arquivo index.html
+- Abrir a pasta do projeto no VSCode
+- Baixar extensão Live server (caso ainda não tenha)
+- Clicar no arquivo index.html
 - Clicar em Go Live no canto inferior direito
